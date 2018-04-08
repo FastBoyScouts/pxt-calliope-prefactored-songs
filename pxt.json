@@ -1,0 +1,14 @@
+{
+    "name": "songs",
+    "version": "0.1.0",
+    "description": "Prefactored songs for Calliope and MicroBit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "prefactored-songs.ts"
+    ],
+    "public": true
+}
