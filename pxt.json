@@ -1,6 +1,6 @@
 {
     "name": "songs",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Prefactored songs for Calliope and MicroBit",
     "license": "MIT",
     "dependencies": {

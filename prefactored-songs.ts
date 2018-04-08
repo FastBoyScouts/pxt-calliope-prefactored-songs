@@ -4,7 +4,7 @@
 //% parts="songs"
 namespace songs {
 
-    //% weight=210
+    //% weight=420
     //% blockId=songs_dadadado block="Da Da Da Do"
     //% icon="\uf001"
     //% blockExternalInputs=1
